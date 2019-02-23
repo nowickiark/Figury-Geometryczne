@@ -13,3 +13,9 @@ public class Cube extends Square {
 
 
 //dodam jakieś zmieny
+
+
+
+
+//jeszcze wiecej zmian
+//nowy komenatarz
